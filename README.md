@@ -15,11 +15,11 @@ All code was developed using best MLOps practices, open-source pipelines, and pr
 The model was deployed using a web app for interactive "what if" or "batch" predictions and a REST API with proper documentation.
 
 **Links:**
-- Web app:
-  - Web app deployed on the Streamlit cloud
-  - Docker image repository
-  - Code repository
+- Web app
+  - [Web app deployed on the Streamlit cloud](https://cmcouto-silva-telco-churn-app-stream-project-description-18l8js.streamlit.app/)
+  - [Docker image repository](https://hub.docker.com/repository/docker/cmcoutosilva/telco-churn-streamlit-app/general)
+  - [Code repository](https://github.com/cmcouto-silva/telco-churn-app)
 - REST API
-  - REST API deployed on GCP App Engine (framework: FastAPI)
-  - Docker image repository
-  - Code repository
+  - [REST API deployed on GCP App Engine](https://model-deployment-376218.rj.r.appspot.com/docs) (framework: FastAPI)
+  - [Docker image repository](https://hub.docker.com/repository/docker/cmcoutosilva/telco-churn-rest-api)
+  - [Code repository](https://github.com/cmcouto-silva/telco-churn-api)
